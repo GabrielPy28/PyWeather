@@ -1,7 +1,7 @@
 # ETL With Python + Airflow and AWS S3
 > Mini program designed to execute ETL (Extract, Transform, Load) processes using a combination of technologies. This application takes advantage of the [OpenWeather](https://openweathermap.org/) API to obtain weather data, [Apache Airflow](https://airflow.apache.org/) to organize and schedule workflows, and [AWS S3](https://aws.amazon.com/es/s3/) to store the transformed data.
 >
-> ![PyWeather](https://www.bing.com/images/create/pyweather-mini-programa-ejecutar-procesos-etl-api-/1-659a1411c84a42a19647bb5def6455c4?id=pA9FQMZyeicybD6CqRoSog%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC)
+> ![PyWeather](https://th.bing.com/th/id/OIG.WphApw9nz4bmQ28F8xFV?pid=ImgGn)
 
 ## First Steps:
 > [!IMPORTANT]
